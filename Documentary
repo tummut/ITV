@@ -1,38 +1,28 @@
 #EXTM3U
 
-
 #EXTINF:-1 ,Discovery Realtime
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
 #EXTINF:-1 ,Discovery Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-
 #EXTINF:-1 ,Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 
 #EXTINF:-1 ,Edaily TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-
 #EXTINF:-1 ,Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
-
 #EXTINF:-1 ,SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
-
 #EXTINF:-1 ,SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-
 #EXTINF:-1 ,TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/7Z1fZymw/image.jpg", Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/2ybxNtxn/dcr-branding-full.png", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/7YYyynvb/TSG6WBy.png" CGTN Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/5txWqc14/image.jpg", DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
