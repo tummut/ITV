@@ -252,20 +252,3 @@ http://116.203.155.242/hls/bein8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/beinsports9.png" group-title="体育频道", beIN Sports 9
 http://116.203.155.242/hls/bein9.m3u8
 
-#EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="体育频道", ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="体育频道", Abu Dhabi Al Oula
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311591540MQ.png" group-title="体育频道", Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="体育频道", Abu Dhabi Drama
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png" group-title="体育频道", Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="日韩频道",ゴルフネットワーク
-http://203.162.235.41:16924
