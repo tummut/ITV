@@ -1,0 +1,30 @@
+{
+"name": "Happy​Home​TVBox​",
+"author": "Test​-IPTV​",
+"image": "https://i.pixxxels.cc/mrKm2y4F/image.jpg",
+"url": "xxxxxxxxxxxxxxxxx​",
+"groups": [
+
+{
+"name": "Truesports",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "https://raw.githubusercontent.com/tummut/ITV/main/1.Truesports",
+"import": false
+},	
+{
+"name": "Music Choice",
+"image": "https://i.postimg.cc/KjL1r61R/image.jpg",
+"url": "https://raw.githubusercontent.com/tummut/ITV/main/2.Music%20Choice",
+"import": false
+},	
+{
+"name": "WorldSports",
+"image": "https://www.insidethegames.biz/media/image/69119/o/WSET.png",
+"url": "https://raw.githubusercontent.com/tummut/ITV/main/3.WorldSports",
+"import": false
+},	
+
+
+]
+
+}
