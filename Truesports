@@ -1,0 +1,78 @@
+{
+"name": "Truesports",
+"author": "Test-IPTV",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "xxxxxxxxxxxxxxx​",
+"stations": [
+	  
+
+{
+"name": "Premiere Football HD 1",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 1 สำรอง",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 2 สำรอง",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3 สำรอง",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 4",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-4",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 4 สำรอง",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 5",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://we-play.tv/watching/tv/true-premier-football-hd-5",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 5 สำรอง",
+"image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"referer": "https://www.doomovie-hd.com/",
+"playInNatPlayer": "true"
+},
