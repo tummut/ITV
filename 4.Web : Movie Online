@@ -5,6 +5,12 @@
 "url": "https://raw.githubusercontent.com/tummut/ITV/main/4.Web%20%3A%20Movie%20Online​",
 "stations": [
 	  
+{ 
+"name": "Update: 29 November 2020", 
+"image": "https://tinyurl.com/y35j6scf", 
+"url": "https://youtu.be/GCjJaHWeKIg", 
+"playInNatPlayer": "true" 
+}, 
 
 {
 "name": "all-movie.tv",
@@ -20,7 +26,12 @@
 "referer": "https://www.fw2uhd.com/",
 "playInNatPlayer": "true"
 },
+{ 
+"name": "Movie24H​", 
+"image": "https://tinyurl.com/y2hnw9t8​", 
+"url": "https://www.movie24h.com/%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AA%E0%B8%94​", 
+"referer": "https://www.movie24h.com/",
+"playInNatPlayer": "true" },
 
-
-              ]
-} 
+] 
+}​
