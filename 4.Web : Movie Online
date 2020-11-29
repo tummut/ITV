@@ -1,7 +1,26 @@
-#EXTM3U
+{
+"name": "4.Web : Movie Online",
+"author": "Test-IPTV",
+"image": "https://tinyurl.com/y4ghdkzx",
+"url": "https://raw.githubusercontent.com/tummut/ITV/main/4.Web%20%3A%20Movie%20Online​",
+"stations": [
+	  
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y66kvwst"group-title="ดูหนังออนไลน์",all-movie.tv
-https://www.all-movie.tv/
+{
+"name": "all-movie.tv",
+"image": "https://tinyurl.com/y66kvwst",
+"url": "https://www.all-movie.tv/",
+"referer": "https://www.all-movie.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "FW2UHD",
+"image": "https://tinyurl.com/y3z8dmea",
+"url": "https://www.fw2uhd.com/",
+"referer": "https://www.fw2uhd.com/",
+"playInNatPlayer": "true"
+},
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3z8dmea"group-title="ดูหนังออนไลน์",FW2HD
-https://www.fw2uhd.com/
+
+              ]
+} 
