@@ -4,296 +4,294 @@
 "image": "https://i.postimg.cc/KjL1r61R/image.jpg",
 "url": "https://github.com/tummut/ITV",
 "stations": [
- 
-   
+  
+    
 
 
-  {
-  "name": "Today's Country",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=todayscountry",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
+  {
+  "name": "Today's Country",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=todayscountry",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
 
-  {
-  "name": "Country Hits",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=countryhits",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Pop Latino",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=poplatino",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Musica Urbana",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=musicaurbana",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Tropicales",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=tropicales",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Mexicana",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=mexicana",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Alternative",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=alternative",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Adult Alternative",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=adult_alt",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-  {
-  "name": "Indie",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=indie",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-   {
-  "name": "Hit List",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=hitlist",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-   {
-  "name": "Pop Hits",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=pophits",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  }, 
-   {
-  "name": "Pop & Country",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=popncountry",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-   {
-  "name": "Teen Beats",
-  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-  "url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=teenbeats",
-  "referer": "http://photocall.tv/",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-  "playInNatPlayer": "true"
-  },
-{
-"name": "MC Play",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=mc_play",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Dance/EDM",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=dance",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Y2K",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=y2k",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "90s",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=90s",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "80s",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=80s",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Soft Rock",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=softrock",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Brits+Hits",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=britsnhits",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Hiphop-R&B",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=hiphopnrnb",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "RAB",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=rap",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "R&B Soul",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=rnbsoul",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Throwback Jamz",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=throwbackjamz",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "R&B2K",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=rnb2k",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "RAB2K",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=rap2k",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Ladies of R&B",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=ladiesofrnb",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Rock",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=rock",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Metal",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=metal",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Kidz Only",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=kidzonly",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Radio Disney",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=radiodisney",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "KIDZ BOP",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=kidzbop",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Youth Hits",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=youthhits",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Wonderama",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=wonderama",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "Toddler Tunes",
-"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
-"url": "http://stream.pcriot.com/ZeQ8/mc.php?ch=toddlertunes",
-"referer": "http://photocall.tv/",
-"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
-"playInNatPlayer": "true"
-},
-
-
-
-
-              ]
-} 
+  {
+  "name": "Country Hits",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=countryhits",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Pop Latino",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=poplatino",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Musica Urbana",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=musicaurbana",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Tropicales",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=tropicales",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Mexicana",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=mexicana",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Alternative",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=alternative",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Adult Alternative",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=adult_alt",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },
+  {
+  "name": "Indie",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=indie",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  }, 
+   {
+  "name": "Hit List",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=hitlist",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  }, 
+   {
+  "name": "Pop Hits",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=pophits",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  },  
+   {
+  "name": "Pop & Country",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=popncountry",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  }, 
+   {
+  "name": "Teen Beats",
+  "image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+  "url": "http://stream.pcriot.com/ZoD3/mc.php?ch=teenbeats",
+  "referer": "http://photocall.tv/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+  "playInNatPlayer": "true"
+  }, 
+	{
+	"name": "MC Play",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=mc_play",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Dance/EDM",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=dance",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Y2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=y2k",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "90s",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=90s",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "80s",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=80s",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Soft Rock",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=softrock",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Brits+Hits",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=britsnhits",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Hiphop-R&B",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=hiphopnrnb",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "RAB",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=rap",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "R&B Soul",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=rnbsoul",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Throwback Jamz",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=throwbackjamz",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "R&B2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=rnb2k",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "RAB2K",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=rap2k",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Ladies of R&B",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=ladiesofrnb",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Rock",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=rock",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Metal",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=metal",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Kidz Only",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=kidzonly",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Radio Disney",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=radiodisney",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "KIDZ BOP",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=kidzbop",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Youth Hits",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=youthhits",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Wonderama",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=wonderama",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	{
+	"name": "Toddler Tunes",
+	"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+	"url": "http://stream.pcriot.com/ZoD3/mc.php?ch=toddlertunes",
+	"referer": "http://photocall.tv/",
+	"userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+	"playInNatPlayer": "true"
+	}, 
+	
 
 
+
+              ]
+}
