@@ -9,14 +9,14 @@
 {
 "name": "all-movie.tv",
 "image": "https://tinyurl.com/y66kvwst",
-"url": "https://www.all-movie.tv/",
+"url": "https://www.all-movie.tv/category/movie-international",
 "referer": "https://www.all-movie.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FW2UHD",
 "image": "https://tinyurl.com/y3z8dmea",
-"url": "https://www.fw2uhd.com/",
+"url": "https://www.fw2uhd.com/category/newmovies/",
 "referer": "https://www.fw2uhd.com/",
 "playInNatPlayer": "true"
 },
